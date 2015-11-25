@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+}
+table {
+  margin: 0 auto;
+  cursor: default;
+  border-spacing: 0;
+  width: 30em;
+  height: 30em;
+}
+
+table, td {
+  border: 1px solid black;
+}
+
+td {
+  padding: 0;
+  width: 33.3%;
+  height: 33.3%;
+  font-size: 8em;
+}
+
+.taken {
+
+}
